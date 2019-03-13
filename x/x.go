@@ -3,6 +3,7 @@ package x
 import (
 	"github.com/daved/multimod/a"
 	"github.com/daved/multimod/b"
+	"github.com/daved/multimod/d"
 )
 
 // X contains multimod funcs.
@@ -12,7 +13,8 @@ type X map[string]func() string
 // the multimod repo.
 func Make() X {
 	return X{
-		"a": a.Version,
-		"b": b.Version,
+		"a": a.Version1,
+		"b": b.Version1,
+		"d": d.Version,
 	}
 }
