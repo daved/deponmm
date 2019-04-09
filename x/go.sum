@@ -2,5 +2,5 @@ github.com/daved/multimod v1.1.1 h1:RATarFeeqNdb9wRVAuUlIczuXKseQQCHl+mxugWBwZs=
 github.com/daved/multimod v1.1.1/go.mod h1:86Mfg8unudJi88Wv1GOU0EDnjlUxjySl2r377bxT5XI=
 github.com/daved/multimod/d v0.1.0 h1:61cBFESlz2fJ/ESYLdXrJSGEAHtJapX5d801cd0m5Og=
 github.com/daved/multimod/d v0.1.0/go.mod h1:fjArsNV07MfNTi9GkdB/WdY8UreZnyl8PFGpd1FF5cQ=
-github.com/daved/multimod/f v1.0.0 h1:j4VKj0T8ZOplfQ9OnUdnyqFEqM3OwhQBoPPbqbJmqOA=
-github.com/daved/multimod/f v1.0.0/go.mod h1:PuJYNSK8cIK5k8mI4P+53usqvTOVvPCuzPJjaoUdB44=
+github.com/daved/multimod/f/v2 v2.0.0 h1:blEsbM4g748WrJVPUdNLkZrcrk95tQMavSwSTRXvh1k=
+github.com/daved/multimod/f/v2 v2.0.0/go.mod h1:Bl5azn6AeTwdRlmbATw+GgiNbdQfTllJnXLLx5Ws8go=
