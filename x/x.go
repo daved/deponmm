@@ -19,6 +19,6 @@ func Make() X {
 		"b": b.Version1,
 		"d": d.Version,
 		"e": e.Version1,
-		"f": f.Version,
+		"f": f.Version1,
 	}
 }
