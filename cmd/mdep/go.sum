@@ -1,11 +1,16 @@
 github.com/daved/multidep/x v0.2.2 h1:4FDE5M2xt/8zAm1ih26E105gRGgpr6vBSdPd38bkE5g=
 github.com/daved/multidep/x v0.2.2/go.mod h1:cFfEuFagSjtuIHxIzzMoSc/1duq7n17k6eWbLrKMoCU=
+github.com/daved/multidep/x v0.2.3 h1:K7T5PJ2DZBLZvcrrMfQb69RmKc1eZS8ntX2cvpzVUy0=
+github.com/daved/multidep/x v0.2.3/go.mod h1:P4YLlP0/AuMrwuBKD38YotG5Is5m7H5cjgC5u0uh0i4=
 github.com/daved/multidep/y v0.1.0 h1:IJQ83KBZA20SJ4JgIQXS/zHlqKjgNQ1rrAlsqfAdD1Y=
 github.com/daved/multidep/y v0.1.0/go.mod h1:Rw+KuyuZH7YtO9aJkRTAb676OSJ3vCcQ5K+Tkwr5b60=
 github.com/daved/multimod v1.1.1 h1:RATarFeeqNdb9wRVAuUlIczuXKseQQCHl+mxugWBwZs=
 github.com/daved/multimod v1.1.1/go.mod h1:86Mfg8unudJi88Wv1GOU0EDnjlUxjySl2r377bxT5XI=
 github.com/daved/multimod/d v0.1.0 h1:61cBFESlz2fJ/ESYLdXrJSGEAHtJapX5d801cd0m5Og=
 github.com/daved/multimod/d v0.1.0/go.mod h1:fjArsNV07MfNTi9GkdB/WdY8UreZnyl8PFGpd1FF5cQ=
+github.com/daved/multimod/f v0.1.0 h1:qT1KgMOnLuWkdsns8jMuwVOIt2bL+f+AxRpF9daMPrM=
 github.com/daved/multimod/f v0.1.0/go.mod h1:OElUrjj7jLV/VVl5iCPY+06Gb6IFeG+YR3Y8Egxnm/I=
 github.com/daved/multimod/f v1.0.0 h1:j4VKj0T8ZOplfQ9OnUdnyqFEqM3OwhQBoPPbqbJmqOA=
 github.com/daved/multimod/f v1.0.0/go.mod h1:PuJYNSK8cIK5k8mI4P+53usqvTOVvPCuzPJjaoUdB44=
+github.com/daved/multimod/f/v2 v2.0.0 h1:blEsbM4g748WrJVPUdNLkZrcrk95tQMavSwSTRXvh1k=
+github.com/daved/multimod/f/v2 v2.0.0/go.mod h1:Bl5azn6AeTwdRlmbATw+GgiNbdQfTllJnXLLx5Ws8go=
