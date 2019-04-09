@@ -4,6 +4,8 @@ import (
 	"github.com/daved/multimod/a"
 	"github.com/daved/multimod/b"
 	"github.com/daved/multimod/d"
+	"github.com/daved/multimod/e"
+	"github.com/daved/multimod/f"
 )
 
 // X contains multimod funcs.
@@ -16,5 +18,7 @@ func Make() X {
 		"a": a.Version1,
 		"b": b.Version1,
 		"d": d.Version,
+		"e": e.Version1,
+		"f": f.Version1,
 	}
 }
